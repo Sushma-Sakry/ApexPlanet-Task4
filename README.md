@@ -1,8 +1,8 @@
-# ApexPlanet Data Analytics Internship — Task 4
+# ApexPlanet Data Analytics Internship - Task 4
 
 ## Data Storytelling & Statistical Validation
 
-This project is part of the **ApexPlanet Data Analytics Internship – Task 4**.
+This project is part of the **ApexPlanet Data Analytics Internship - Task 4**.
 
 The objective of this task is to transform the analysis completed in the previous tasks into a clear business story and strengthen key findings using statistical validation.
 
